@@ -1,0 +1,283 @@
+[14:56:48] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:56:48] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:56:48] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:56:48] [main/INFO]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
+[14:56:48] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_202, running on Linux:amd64:6.8.7-zen1-1-zen, installed at /home/remi/Documents/curseforge/minecraft/Install/runtime/jre-legacy/linux/jre-legacy
+[14:56:48] [main/INFO]: Searching /home/remi/Documents/curseforge/minecraft/Instances/tech expert stoneblock/mods for mods
+[14:56:48] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in ftb-ultimine-1202.3.5.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:56:48] [main/WARN]: The coremod FTBUltimineASM (com.feed_the_beast.mods.ftbultimine.FTBUltimineLoadingPlugin) is not signed!
+[14:56:48] [main/WARN]: The coremod com.therandomlabs.randompatches.core.RPCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:56:48] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:56:48] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:56:48] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:56:48] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:56:48] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:56:51] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[14:56:51] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[14:56:51] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:56:51] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:56:51] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:56:52] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:56:53] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:56:53] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:56:53] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[14:56:54] [Client thread/INFO]: Setting user: Tsunen
+[14:57:00] [Client thread/WARN]: Skipping bad option: lastServer:
+[14:57:00] [Client thread/INFO]: LWJGL Version: 2.9.4
+[14:57:01] [Client thread/INFO]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 6.8.7-zen1-1-zen
+	Java Version: 1.8.0_202, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 969920048 bytes (924 MB) / 1117782016 bytes (1066 MB) up to 3817865216 bytes (3641 MB)
+	JVM Flags: 2 total; -Xmx4096m -Xms256m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+RandomPatches (randompatches-1.12.2-1.22.1.10.jar)
+  com.therandomlabs.randompatches.core.RPTransformer
+FTBUltimineASM (ftb-ultimine-1202.3.5.jar)
+  
+	GL info: ' Vendor: 'AMD' Version: '4.6 (Compatibility Profile) Mesa 24.0.5-arch1.1' Renderer: 'AMD Radeon Vega 10 Graphics (radeonsi, raven, LLVM 17.0.6, DRM 3.57, 6.8.7-zen1-1-zen)'
+[14:57:01] [Client thread/INFO]: MinecraftForge v14.23.5.2859 Initialized
+[14:57:01] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[14:57:01] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[14:57:01] [Client thread/INFO]: Replaced 1227 ore ingredients
+[14:57:02] [Client thread/INFO]: Searching /home/remi/Documents/curseforge/minecraft/Instances/tech expert stoneblock/mods for mods
+[14:57:03] [Thread-3/INFO]: Using sync timing. 200 frames of Display.update took 252661432 nanos
+[14:57:03] [Client thread/WARN]: Mod craftingtweaks is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 8.1.9
+[14:57:03] [Client thread/WARN]: Mod voidislandcontrol is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.5.3
+[14:57:03] [Client thread/INFO]: Forge Mod Loader has identified 22 mods to load
+[14:57:04] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, randompatches, appleskin, controlling, craftingtweaks, fastfurnace, fastleafdecay, fastbench, ftbultimine, ftblib, ftbquests, itemfilters, jei, kubejs, mousetweaks, placebo, theoneprobe, toastcontrol, voidislandcontrol] at CLIENT
+[14:57:04] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, randompatches, appleskin, controlling, craftingtweaks, fastfurnace, fastleafdecay, fastbench, ftbultimine, ftblib, ftbquests, itemfilters, jei, kubejs, mousetweaks, placebo, theoneprobe, toastcontrol, voidislandcontrol] at SERVER
+[14:57:07] [Client thread/WARN]: =============================================================
+[14:57:07] [Client thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[14:57:07] [Client thread/WARN]: Offender: jdk/nashorn/internal/objects/Global.exit(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+[14:57:07] [Client thread/WARN]: Use FMLCommonHandler.exitJava instead
+[14:57:07] [Client thread/WARN]: =============================================================
+[14:57:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:RandomPatches, FMLFileResourcePack:AppleSkin, FMLFileResourcePack:Controlling, FMLFileResourcePack:Crafting Tweaks, FMLFileResourcePack:FastFurnace, FMLFileResourcePack:Fast Leaf Decay, FMLFileResourcePack:FastWorkbench, FMLFileResourcePack:FTB Ultimine, FMLFileResourcePack:FTB Library, FMLFileResourcePack:FTB Quests, FMLFileResourcePack:Item Filters, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:KubeJS, FMLFileResourcePack:Mouse Tweaks, FMLFileResourcePack:Placebo, FMLFileResourcePack:The One Probe, FMLFileResourcePack:Toast Control, FMLFileResourcePack:Void Island Control, KubeJSResourcePack
+[14:57:09] [Client thread/INFO]: Processing ObjectHolder annotations
+[14:57:09] [Client thread/INFO]: Found 1195 ObjectHolder annotations
+[14:57:09] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[14:57:09] [Client thread/INFO]: Found 1 ItemStackHolder annotations
+[14:57:09] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[14:57:09] [Forge Version Check/INFO]: [mousetweaks] Starting version check at http://play.sourceruns.org/yalter/MouseTweaks/update.json
+[14:57:10] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:10] [Client thread/INFO]: Loaded 0/0 scripts in 0.108s
+[14:57:11] [Client thread/INFO]: OBJLoader: Domain voidislandcontrol has been added.
+[14:57:11] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:11] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `lit_furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:11] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `crafting_table`, expected `fastbench`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:11] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `crafting_table`, expected `fastbench`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:11] [Client thread/INFO]: Applying holder lookups
+[14:57:11] [Client thread/INFO]: Holder lookups applied
+[14:57:11] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:11] [Client thread/INFO]: Applying holder lookups
+[14:57:11] [Client thread/INFO]: Holder lookups applied
+[14:57:11] [Client thread/INFO]: Applying holder lookups
+[14:57:11] [Client thread/INFO]: Holder lookups applied
+[14:57:11] [Placebo Patreon Loader/INFO]: Loading patreon data...
+[14:57:11] [Client thread/INFO]: Applying holder lookups
+[14:57:11] [Client thread/INFO]: Holder lookups applied
+[14:57:11] [Client thread/INFO]: Injecting itemstacks
+[14:57:11] [Client thread/INFO]: Itemstack injection complete
+[14:57:12] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[14:57:12] [Thread-4/INFO]: Initializing LWJGL OpenAL
+[14:57:12] [Thread-4/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:57:12] [Thread-4/INFO]: OpenAL initialized.
+[14:57:12] [Forge Version Check/INFO]: [mousetweaks] Found status: BETA Target: null
+[14:57:12] [Forge Version Check/INFO]: [fastleafdecay] Starting version check at http://www.olafkeijsers.net/fastleafdecay-update.json
+[14:57:12] [Sound Library Loader/INFO]: Sound engine started
+[14:57:13] [Forge Version Check/INFO]: [fastleafdecay] Found status: UP_TO_DATE Target: null
+[14:57:13] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[14:57:15] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Target: null
+[14:57:15] [Forge Version Check/INFO]: [randompatches] Starting version check at https://raw.githubusercontent.com/TheRandomLabs/RandomPatches/misc/versions.json
+[14:57:16] [Forge Version Check/INFO]: [randompatches] Found status: UP_TO_DATE Target: null
+[14:57:17] [Client thread/INFO]: Max texture size: 16384
+[14:57:18] [Client thread/INFO]: Created: 512x512 textures-atlas
+[14:57:21] [Client thread/INFO]: Applying holder lookups
+[14:57:21] [Client thread/INFO]: Holder lookups applied
+[14:57:21] [Client thread/INFO]: Created: 256x128 textures-atlas
+[14:57:21] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] A call to initialize, entry point: FORGE.
+[14:57:21] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Reflecting GuiContainer...
+[14:57:21] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Detected obfuscation: FORGE.
+[14:57:21] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Success.
+[14:57:21] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Minecraft Forge is installed.
+[14:57:21] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] LiteLoader is not installed.
+[14:57:21] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Using Forge for the mod operation.
+[14:57:21] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Mouse Tweaks has been initialized.
+[14:57:22] [Client thread/INFO]: fastbench has registered shadows.fastbench.gui.ContainerFastBench for CraftingTweaks
+[14:57:22] [Client thread/INFO]: Injecting itemstacks
+[14:57:22] [Client thread/INFO]: Itemstack injection complete
+[14:57:22] [Client thread/INFO]: [com.feed_the_beast.mods.ftbultimine.FTBUltimine:postinit:103]: MC Version: 12
+[14:57:22] [Client thread/INFO]: [com.feed_the_beast.mods.ftbultimine.FTBUltimine:setVersionHelper12:123]: FTB Ultimine is using 1.12 helper
+[14:57:22] [Client thread/INFO]: Beginning replacement of all shapeless recipes...
+[14:57:22] [Client thread/INFO]: Expect log spam from FML!
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_dye_from_sunflower`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_dye_from_dandelion`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `writable_book`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `white_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `trapped_chest`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `red_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_rose_bush`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_poppy`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_beetroot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `red_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `red_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `purple_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `purple_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `purple_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `purple_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pumpkin_pie`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pink_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pink_dye_from_red_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pink_dye_from_pink_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pink_dye_from_peony`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pink_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pink_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `orange_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `orange_dye_from_red_yellow`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `orange_dye_from_orange_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `orange_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `orange_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `mushroom_stew`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `mossy_stonebrick`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `mossy_cobblestone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `magma_cream`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_purple_and_pink`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_lilac`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_lapis_red_pink`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_lapis_ink_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_allium`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `lime_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `lime_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `lime_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `lime_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_white_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_oxeye_daisy`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_ink_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_gray_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_azure_bluet`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_dye_from_lapis_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_dye_from_blue_orchid`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `green_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `green_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `green_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gray_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gray_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gray_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gray_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `granite`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `flint_and_steel`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `fire_charge`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `fermented_spider_eye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ender_eye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `brown_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `brown_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `brown_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `book`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `bone_meal_from_bone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `bone_meal_from_block`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `blue_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `blue_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `blue_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `blaze_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `black_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `black_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `black_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `andesite`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `ftbquests` for name `reward_collector`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/WARN]: Potentially Dangerous alternative prefix `ftbquests` for name `book`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[14:57:22] [Client thread/INFO]: Successfully replaced 92 recipes with fast recipes.
+[14:57:22] [Client thread/INFO]: Starting JEI...
+[14:57:22] [Client thread/INFO]: Registering recipe categories...
+[14:57:22] [Client thread/INFO]: Registering recipe categories took 56.32 ms
+[14:57:22] [Client thread/INFO]: Registering mod plugins...
+[14:57:23] [Client thread/INFO]: Registering mod plugins took 344.6 ms
+[14:57:23] [Client thread/INFO]: Building recipe registry...
+[14:57:24] [Client thread/INFO]: Building recipe registry took 888.7 ms
+[14:57:24] [Client thread/INFO]: Building ingredient list...
+[14:57:24] [Client thread/INFO]: Building ingredient list took 50.33 ms
+[14:57:24] [Client thread/INFO]: Building ingredient filter...
+[14:57:24] [Client thread/INFO]: Building ingredient filter took 259.5 ms
+[14:57:24] [Client thread/INFO]: Building bookmarks...
+[14:57:24] [Client thread/INFO]: Building bookmarks took 13.03 ms
+[14:57:24] [Client thread/INFO]: Building runtime...
+[14:57:24] [Client thread/INFO]: Building runtime took 219.5 ms
+[14:57:24] [Client thread/INFO]: Optimizing memory usage...
+[14:57:24] [Client thread/INFO]: Optimizing memory usage took 201.4 ms
+[14:57:24] [Client thread/INFO]: Starting JEI took 2.549 s
+[14:57:25] [Client thread/INFO]: Forge Mod Loader has successfully loaded 22 mods
+[14:57:25] [Client thread/WARN]: Skipping bad option: lastServer:
+[14:57:25] [Client thread/WARN]: ERROR : Couldn't load Narrator library : Unable to load library 'fliteWrapper': Native library (linux-x86-64/libfliteWrapper.so) not found in resource path ([file:/home/remi/Documents/curseforge/minecraft/Install/libraries/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/org/jline/jline/3.5.1/jline-3.5.1.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/com/mojang/patchy/1.3.9/patchy-1.3.9.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/io/netty/netty-all/4.1.9.Final/netty-all-4.1.9.Final.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/com/google/guava/guava/21.0/guava-21.0.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/com/mojang/realms/1.10.22/realms-1.10.22.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/it/unimi/dsi/fastutil/7.1.0/fastutil-7.1.0.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar, file:/home/remi/Documents/curseforge/minecraft/Install/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar, file:/home/remi/Documents/curseforge/minecraft/Install/versions/1.12.2/1.12.2.jar, file:/home/remi/Documents/curseforge/minecraft/Instances/tech%20expert%20stoneblock/mods/ftb-ultimine-1202.3.5.jar, file:/home/remi/Documents/curseforge/minecraft/Instances/tech%20expert%20stoneblock/mods/randompatches-1.12.2-1.22.1.10.jar, asmgen:/, file:/home/remi/Documents/curseforge/minecraft/Instances/tech%20expert%20stoneblock/mods/jei_1.12.2-4.16.1.301.jar, file:/home/remi/Documents/curseforge/minecraft/Instances/tech%20expert%20stoneblock/mods/AppleSkin-mc1.12-1.0.14.jar, file:/home/remi/Documents/curseforge/minecraft/Instances/tech%20expert%20stoneblock/mods/Controlling-3.0.12.3.jar, file:/home/remi/Documents/curseforge/minecraft/Instances/tech%20expert%20stoneblock/mods/CraftingTweaks_1.12.2-8.1.9.jar, file:/home/remi/Documents/curseforge/minecraft/Instances/tech%20expert%20stoneblock/mods/FastFurnace-1.12.2-1.3.1.jar, file:/home/remi/Documents/curseforge/minecraft/Instances/tech%20expert%20stoneblock/mods/FastLeafDecay-v14.jar, file:/home/remi/Documents/curseforge/minecraft/Instances/tech%20expert%20stoneblock/mods/FastWorkbench-1.12.2-1.7.4.jar, file:/home/remi/Documents/curseforge/minecraft/Instances/tech%20expert%20stoneblock/mods/FTBLib-5.4.7.2.jar, file:/home/remi/Documents/curseforge/minecraft/Instances/tech%20expert%20stoneblock/mods/ItemFilters-1.0.4.2.jar, file:/home/remi/Documents/curseforge/minecraft/Instances/tech%20expert%20stoneblock/mods/FTBQuests-1202.9.0.15.jar, file:/home/remi/Documents/curseforge/minecraft/Instances/tech%20expert%20stoneblock/mods/KubeJS-forge-1.12.2-1.1.0.65.jar, file:/home/remi/Documents/curseforge/minecraft/Install/runtime/jre-legacy/linux/jre-legacy/lib/ext/nashorn.jar, file:/home/remi/Documents/curseforge/minecraft/Instances/tech%20expert%20stoneblock/mods/MouseTweaks-2.10-mc1.12.2.jar, file:/home/remi/Documents/curseforge/minecraft/Instances/tech%20expert%20stoneblock/mods/Placebo-1.12.2-1.6.1.jar, file:/home/remi/Documents/curseforge/minecraft/Instances/tech%20expert%20stoneblock/mods/theoneprobe-1.12-1.4.28.jar, file:/home/remi/Documents/curseforge/minecraft/Instances/tech%20expert%20stoneblock/mods/Toast%20Control-1.12.2-1.8.1.jar, file:/home/remi/Documents/curseforge/minecraft/Instances/tech%20expert%20stoneblock/mods/voidislandcontrol-1.5.3.jar])
+[14:58:33] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[14:58:33] [Server thread/INFO]: Generating keypair
+[14:58:33] [Server thread/INFO]: Injecting existing registry data into this server instance
+[14:58:33] [Server thread/INFO]: Applying holder lookups
+[14:58:33] [Server thread/INFO]: Holder lookups applied
+[14:58:34] [Server thread/INFO]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@27be182d)
+[14:58:34] [Server thread/INFO]: Loaded 488 advancements
+[14:58:38] [Server thread/INFO]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@27be182d)
+[14:58:38] [Server thread/INFO]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@27be182d)
+[14:58:38] [Server thread/INFO]: Preparing start region for level 0
+[14:58:39] [Server thread/INFO]: Preparing spawn area: 30%
+[14:58:40] [Server thread/INFO]: Preparing spawn area: 62%
+[14:58:41] [Server thread/INFO]: Preparing spawn area: 96%
+[14:58:42] [Server thread/INFO]: Registering Void Island Control commands.
+[14:58:42] [Server thread/INFO]: Finished registering Void Island Control commands.
+[14:58:42] [Server thread/INFO]: Loading quests from /home/remi/Documents/curseforge/minecraft/Instances/tech expert stoneblock/config/ftbquests/normal
+[14:58:42] [Server thread/INFO]: Loaded 0 chapters, 0 quests, 0 tasks and 0 rewards. In total, 0 objects
+[14:58:42] [Server thread/INFO]: Loaded 488 advancements
+[14:58:42] [Server thread/INFO]: Reloaded server in 5ms
+[14:58:42] [Server thread/INFO]: Unloading dimension -1
+[14:58:42] [Server thread/INFO]: Unloading dimension 1
+[14:58:42] [Server thread/INFO]: Changing view distance to 12, from 10
+[14:58:52] [Netty Local Client IO #0/INFO]: Server protocol version 2
+[14:58:52] [Netty Server IO #1/INFO]: Client protocol version 2
+[14:58:52] [Netty Server IO #1/INFO]: Client attempting to join with 22 mods : minecraft@1.12.2,ftbultimine@1202.3.5,kubejs@forge-1.12.2-1.1.0.65,FML@8.0.99.99,theoneprobe@1.4.28,mousetweaks@2.10,ftbquests@1202.9.0.15,randompatches@1.12.2-1.22.1.10,fastfurnace@1.3.1,appleskin@1.0.14,itemfilters@1.0.4.2,ftblib@5.4.7.2,jei@4.16.1.301,toastcontrol@1.8.1,voidislandcontrol@1.5.3,forge@14.23.5.2859,fastleafdecay@v14,mcp@9.42,controlling@3.0.10,fastbench@1.7.4,craftingtweaks@8.1.9,placebo@1.6.0
+[14:58:52] [Netty Local Client IO #0/INFO]: [Netty Local Client IO #0] Client side modded connection established
+[14:58:52] [Server thread/INFO]: [Server thread] Server side modded connection established
+[14:58:52] [Server thread/INFO]: Tsunen[local:E:da6935bd] logged in with entity id 0 at (323.5, 256.0, -801.5)
+[14:58:52] [Server thread/INFO]: Tsunen joined the game
+[14:58:54] [Server thread/INFO]: Saving and pausing game...
+[14:58:54] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[14:58:55] [Client thread/INFO]: [CHAT] §cError getting starting inventory.\njava.lang.ArrayIndexOutOfBoundsException: 2
+[14:59:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6447ms behind, skipping 128 tick(s)
+[14:59:23] [Server thread/INFO]: Saving and pausing game...
+[14:59:23] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[14:59:27] [Client thread/INFO]: Using default channel type
+[14:59:27] [Client thread/INFO]: Started on 43625
+[14:59:27] [Client thread/INFO]: [CHAT] Local game hosted on port 43625
+[14:59:30] [Client thread/INFO]: [CHAT] /gamemode, /gamerule
+[14:59:32] [Server thread/INFO]: [Tsunen: Set own game mode to Creative Mode]
+[14:59:32] [Client thread/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[14:59:45] [Client thread/INFO]: [CHAT] /startingInv, /stats, /stopsound
+[14:59:47] [Client thread/INFO]: [CHAT] Starting Inventory config set!
+[15:00:02] [Client thread/INFO]: Stopping!
+[15:00:02] [Server thread/INFO]: Stopping server
+[15:00:02] [Server thread/INFO]: Saving players
+[15:00:02] [Server thread/INFO]: Saving worlds
+[15:00:02] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[15:00:02] [Server thread/INFO]: Unloading dimension 0
+[15:00:02] [Server thread/INFO]: Applying holder lookups
+[15:00:02] [Server thread/INFO]: Holder lookups applied
+[15:00:02] [Client thread/INFO]: SoundSystem shutting down...
+[15:00:02] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
